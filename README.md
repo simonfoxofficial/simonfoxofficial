@@ -7,7 +7,7 @@
 [![YouTube](https://img.shields.io/badge/YouTube-@s1m0nfox-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@s1m0nfox)
 [![Twitch](https://img.shields.io/badge/Twitch-s1m0nfox-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/s1m0nfox)
 [![Discord](https://img.shields.io/badge/Discord-Unisciti%20al%20server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/bUPczHtacJ)
-[![Reddit](https://img.shields.io/badge/Reddit-r%2FMemeDellaVolpe-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/MemeDellaVolpe/)
+<!-- [![Reddit](https://img.shields.io/badge/Reddit-r%2FMemeDellaVolpe-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/MemeDellaVolpe/) -->
 
 </div>
 
