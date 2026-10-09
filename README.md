@@ -5,6 +5,9 @@
 ### Ciao a tutti, sono S1m0nFoX!
 
 [![YouTube](https://img.shields.io/badge/YouTube-@s1m0nfox-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@s1m0nfox)
+[![Twitch](https://img.shields.io/badge/Twitch-s1m0nfox-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/s1m0nfox)
+[![Discord](https://img.shields.io/badge/Discord-Unisciti%20al%20server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/bUPczHtacJ)
+[![Reddit](https://img.shields.io/badge/Reddit-r%2FMemeDellaVolpe-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/MemeDellaVolpe/)
 
 </div>
 
@@ -38,6 +41,9 @@ Salvo diversa indicazione, puoi usare i progetti nei tuoi video e contenuti. Se 
 ## 💬 Seguimi
 
 - ▶️ **YouTube:** [youtube.com/@s1m0nfox](https://youtube.com/@s1m0nfox)
+- 🟣 **Twitch:** [twitch.tv/s1m0nfox](https://www.twitch.tv/s1m0nfox)
+- 💬 **Discord:** [entra nel server](https://discord.gg/bUPczHtacJ)
+- 🟠 **Reddit:** [r/MemeDellaVolpe](https://www.reddit.com/r/MemeDellaVolpe/)
 - ⭐ Metti una **stella** alle repository che ti piacciono
 - 🔔 Iscriviti al canale per non perdere i prossimi video
 
