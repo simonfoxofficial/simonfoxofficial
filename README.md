@@ -38,6 +38,14 @@ Apri una **Issue** nella repository del progetto e descrivi cosa non funziona. I
 
 Salvo diversa indicazione, puoi usare i progetti nei tuoi video e contenuti. Se lo fai, **cita il mio canale** nella descrizione. Controlla sempre il file `LICENSE` di ogni progetto.
 
+## 📊 Le mie statistiche GitHub
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=simonfoxofficial&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&locale=it" width="49%" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simonfoxofficial&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&locale=it" width="49%" />
+<br />
+<img src="https://streak-stats.demolab.com/?user=simonfoxofficial&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&locale=it" width="60%" />
+</div>
+
 ## 💬 Seguimi
 
 - ▶️ **YouTube:** [youtube.com/@s1m0nfox](https://youtube.com/@s1m0nfox)
@@ -52,18 +60,5 @@ Salvo diversa indicazione, puoi usare i progetti nei tuoi video e contenuti. Se 
 <div align="center">
 
 **Grazie per essere qui e... ci vediamo nel prossimo video! 🎮**
-
-</div>
-
----
-
-## 📊 Le mie statistiche GitHub
-
-<div align="center">
-
-![Statistiche GitHub](https://github-readme-stats.vercel.app/api?username=simonfoxofficial&show_icons=true&theme=dark&locale=it)
-![Linguaggi più usati](https://github-readme-stats.vercel.app/api/top-langs/?username=simonfoxofficial&layout=compact&langs_count=6&theme=dark&locale=it)
-
-![Streak GitHub](https://streak-stats.demolab.com/?user=simonfoxofficial&theme=dark&locale=it)
 
 </div>
