@@ -55,4 +55,4 @@ Salvo diversa indicazione, puoi usare i progetti nei tuoi video e contenuti. Se 
 
 </div>
 
-![Linguaggi più usati](https://github-readme-stats.vercel.app/api/top-langs/?username=simonfoxofficial&layout=compact)
+![Linguaggi più usati](https://github-readme-stats.vercel.app/api/top-langs/?username=simonfoxofficial&layout=compact&langs_count=6&theme=dark&locale=it)
