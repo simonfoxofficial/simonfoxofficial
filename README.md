@@ -55,4 +55,15 @@ Salvo diversa indicazione, puoi usare i progetti nei tuoi video e contenuti. Se 
 
 </div>
 
+---
+
+## 📊 Le mie statistiche GitHub
+
+<div align="center">
+
+![Statistiche GitHub](https://github-readme-stats.vercel.app/api?username=simonfoxofficial&show_icons=true&theme=dark&locale=it)
 ![Linguaggi più usati](https://github-readme-stats.vercel.app/api/top-langs/?username=simonfoxofficial&layout=compact&langs_count=6&theme=dark&locale=it)
+
+![Streak GitHub](https://streak-stats.demolab.com/?user=simonfoxofficial&theme=dark&locale=it)
+
+</div>
