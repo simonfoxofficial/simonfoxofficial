@@ -54,3 +54,5 @@ Salvo diversa indicazione, puoi usare i progetti nei tuoi video e contenuti. Se 
 **Grazie per essere qui e... ci vediamo nel prossimo video! 🎮**
 
 </div>
+
+![Linguaggi più usati](https://github-readme-stats.vercel.app/api/top-langs/?username=simonfoxofficial&layout=compact)
